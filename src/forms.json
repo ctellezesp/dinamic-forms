@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "id": "0D15281B-B16D-4166-9F42-0A256F040958",
+      "type": "text",
+      "label": "First Name",
+      "placeholder": "Type here your first name"
+    },
+    {
+      "id": "E80D55CB-5A50-4C6C-9AB2-B687C3710DEC",
+      "type": "text",
+      "label": "Last Name",
+      "placeholder": "Type here your last name"
+    },
+    {
+      "id": "DF067581-7270-41E7-9BFB-6CE765B7C434",
+      "type": "text",
+      "label": "Phone number",
+      "placeholder": "Type here your phone number"
+    },
+    {
+      "id": "C9368404-28FF-4C8E-BB10-036DE03E2DA2",
+      "type": "text",
+      "label": "Email",
+      "placeholder": "Type here your email"
+    },
+    {
+      "id": "FCD1AED8-7717-44C7-92BF-5BDCF90FC387",
+      "type": "radio",
+      "label": "Gender",
+      "placeholder": "Select your gender",
+      "radioOptions": [
+        "Male",
+        "Female",
+        "Other"
+      ]
+    },
+    {
+      "id": "A26186E7-F2B7-4AD2-A56A-1389698A1DD1",
+      "type": "date",
+      "label": "Birth date",
+      "placeholder": "Select your birth date"
+    },
+    {
+      "id": "26B36C38-F3EC-4EC4-9B6D-AE2F45468ED9",
+      "type": "select",
+      "label": "Education level",
+      "placeholder": "Select your education level",
+      "selectOptions": [
+        {
+          "label": "Student",
+          "value": "student"
+        },
+        {
+          "label": "Graduate",
+          "value": "graduate"
+        },
+        {
+          "label": "Master's degree",
+          "value": "master"
+        },
+        {
+          "label": "Ph's degree",
+          "value": "ph"
+        }
+      ]
+    }
+  ]
+}
